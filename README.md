@@ -1,1 +1,2 @@
 # WordleGame
+# WordleGame is a java GUI based app that basically prompts user with 3 categories they can play wordle with, these 3 categories are Animals, Flowers, and Fruits. Within these categories are a folder of random words within those topics that are then scrammbled for the user to guess. Once user guess the correct answer, it displays the time it took for them to respond as well as a score tracker. User also has a health bar which if reaches 0, ends the game where a gameover screen is displayed displaying their score and average time per response. 
